@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @J314F
-- 👀 I’m interested in: breathing ig
+- 👀 I’m interested in: money
 - 🌱 I’m currently learning: python
 - 💞️ I’m looking to collaborate on: nothing tbh
 - 📫 How to reach me: nah im good
-- 😄 Pronouns: idc
+- 😄 Pronouns: idrc tbh
 - ⚡ Fun fact: Pneumonoultramicroscopicsilicovolcanoconiosis is a lung disease, commonly aquired through the process of inhaling fine silica dust, found most abundantly upon areas of highly geologically active volcanic terrain.
 
 <!---
