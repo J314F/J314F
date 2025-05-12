@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @J314F
 - 👀 I’m interested in: money
-- 🌱 I’m currently learning: python
-- 💞️ I’m looking to collaborate on: nothing tbh
-- 📫 How to reach me: nah im good
-- 😄 Pronouns: idrc tbh
-- ⚡ Fun fact: Pneumonoultramicroscopicsilicovolcanoconiosis is a lung disease, commonly aquired through the process of inhaling fine silica dust, found most abundantly upon areas of highly geologically active volcanic terrain.
+- 🌱 I’m currently learning: python, html
+- 💞️ I’m looking to collaborate on: nothing atm
+- 📫 How to reach me: git hub messages
+- 😄 Pronouns: I don't mind
+- ⚡ Fun fact: Poor Man's Poison is the best band.
 
 <!---
 J314F/J314F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
